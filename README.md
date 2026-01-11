@@ -9,3 +9,5 @@ decent.
 See URL on the right for the event itself (Youtube).
 
 As for the "code": I think it was *that* guy (*points pipe at void*).
+
+post scriptum: this is supposed to run in a piece of demoscene software called 'Bonzomatic' (look it up)
